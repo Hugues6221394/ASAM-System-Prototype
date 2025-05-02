@@ -60,9 +60,9 @@ export default function AssignmentManagementSystem() {
         <div className="w-full max-w-md p-8 space-y-8 bg-white rounded-lg shadow-md">
           <div className="text-center">
           <img 
-  src="/aucalogo.png"  // Now looks in public folder
-  alt="AUCA Logo" 
-  className="mx-auto h-16 w-auto"
+  src={`${process.env.PUBLIC_URL}/aucalogo.png`}
+  alt="AUCA Logo"
+  className="mx-auto h-16 w-auto" 
 />
             <h2 className="mt-6 text-3xl font-extrabold text-gray-900">
               AUCA Assignment Management System
@@ -144,9 +144,9 @@ export default function AssignmentManagementSystem() {
         <div className="p-6">
           <div className="flex items-center">
           <img 
-  src="/auca.png"  // Now looks in public folder
-  alt="AUCA Logo" 
-  className="mx-auto h-16 w-auto"
+  src={`${process.env.PUBLIC_URL}/auca.png`}
+  alt="AUCA Logo"
+  className="mx-auto h-16 w-auto" 
 />
             <h1 className="text-xl font-bold">AUCA Assignment Management System</h1>
           </div>
