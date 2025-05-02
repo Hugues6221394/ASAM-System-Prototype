@@ -1,6 +1,6 @@
-# ASAM System Prototype
+# ASAM System Prototype ( Requirements Engineering)
 
-![Project Logo](/public/aucalogo.png)
+![AUCA Logo](/public/aucalogo.png)
 
 A React-based prototype for [describe purpose].
 
