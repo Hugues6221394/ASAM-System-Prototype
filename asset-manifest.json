@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ASAM-System-Prototype/static/css/main.83965407.css",
-    "main.js": "/ASAM-System-Prototype/static/js/main.93d7238c.js",
+    "main.js": "/ASAM-System-Prototype/static/js/main.302d1389.js",
     "index.html": "/ASAM-System-Prototype/index.html",
     "main.83965407.css.map": "/ASAM-System-Prototype/static/css/main.83965407.css.map",
-    "main.93d7238c.js.map": "/ASAM-System-Prototype/static/js/main.93d7238c.js.map"
+    "main.302d1389.js.map": "/ASAM-System-Prototype/static/js/main.302d1389.js.map"
   },
   "entrypoints": [
     "static/css/main.83965407.css",
-    "static/js/main.93d7238c.js"
+    "static/js/main.302d1389.js"
   ]
 }
